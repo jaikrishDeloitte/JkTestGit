@@ -1,4 +1,4 @@
 # JkTestGit
-For learning Git and Github
+For learning
 
 Just learning very basics of git and github, will master it very soon.
